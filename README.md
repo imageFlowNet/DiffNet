@@ -1,4 +1,4 @@
-Nonlinear DiffNet codes
+# Nonlinear DiffNet codes
 
 Accompanying files to publication "Networks for Nonlinear Diffusion Problems in Imaging" by Simon Arridge and Andreas Hauptmann, 2019: https://doi.org/10.1007/s10851-019-00901-3
 
